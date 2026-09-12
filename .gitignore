@@ -1,0 +1,7 @@
+# Arquivos temporários do Excel
+~$*.xlsx
+*.tmp
+
+# Versões preenchidas e dados pessoais
+*_preenchido.xlsx
+dados_pessoais/
